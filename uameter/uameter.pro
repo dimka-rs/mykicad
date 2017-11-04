@@ -1,4 +1,4 @@
-update=Сб 04 ноя 2017 13:25:44
+update=Сб 04 ноя 2017 19:09:53
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,9 +20,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
 [eeschema]
 version=1
 LibDir=
@@ -58,3 +55,6 @@ LibName28=contrib
 LibName29=valves
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
